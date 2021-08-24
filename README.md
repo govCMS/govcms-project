@@ -11,5 +11,5 @@ Complete installation instructions are available at the main GovCMS repository h
 Composer will create a new directory called MY_PROJECT containing a "web" directory with a full GovCMS code base therein.
 
 ```
-composer create-project govcms/govcms8-project MY_PROJECT
+composer create-project govcms/govcms-project MY_PROJECT
 ```
