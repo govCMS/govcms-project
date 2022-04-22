@@ -37,7 +37,8 @@
                     "type": "zip",
                     "url": "https://github.com/dropzone/dropzone/archive/refs/tags/v5.7.2.zip"
                 }
-         }
+            }
+        }
     ],
     "require": {
         "govcms/govcms": "~2"
