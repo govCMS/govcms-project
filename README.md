@@ -1,4 +1,4 @@
-# GovCMS Composer Project Installer
+# GovCMS Composer Project Installer - ARCHIVED
 
 ## Installation
 
